@@ -19,9 +19,7 @@ header{
     height: 36px;
     width: 53px;
 }
-.action_bar{
-    margin-right: 4%;
-}
+
 .navbar{
     display: flex;
     min-width: 500px;
@@ -73,6 +71,7 @@ header{
     
 }
 .action_bar{
+    margin-right: 4%;
     display: flex;
     min-width: 200px;
     justify-content: space-around;
